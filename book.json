@@ -1,0 +1,83 @@
+
+{
+ "output": null,
+ "generator": "site",
+ "title": "好好学习，天天向上",
+ "description": "学习笔记",
+ "extension": null,
+ "plugins": [
+     "splitter",
+     "-lunr", 
+     "-search",
+     "search-plus",
+     "expandable-chapters-small",
+     "insert-logo",
+     "simple-page-toc",
+     "favicon",
+     "anchor-navigation-ex",
+     "page-footer-ex"
+],
+ "pluginsConfig": {
+     "fontSettings": {
+         "theme": "sepia",
+         "family": "serif" ,
+         "size": 1 
+     },
+     "insert-logo": {
+        "url": "picture/logo.png",
+        "style": "background: none;"
+      },
+     "expandable-chapters-small":{},
+     "simple-page-toc": {
+        "maxDepth": 3,
+        "skipFirstH1": true
+    },
+ "showLevel": true,
+    "associatedWithSummary": true,
+    "printLog": false,
+    "multipleH1": true,
+    "mode": "float",
+    "float": {
+        "floatIcon": "fa fa-navicon",
+        "showLevelIcon": false,
+        "level1Icon": "fa fa-hand-o-right",
+        "level2Icon": "fa fa-hand-o-right",
+        "level3Icon": "fa fa-hand-o-right"
+    },
+    "pageTop": {
+        "showLevelIcon": false,
+        "level1Icon": "fa fa-hand-o-right",
+        "level2Icon": "fa fa-hand-o-right",
+        "level3Icon": "fa fa-hand-o-right"
+    },
+    "page-footer-ex": {
+        "copyright": "Copyright © 2013-2019 CloudChef. All Rights Reserved. [上海骞云信息科技有限公司](http://www.cloudchef.io/) 版权所有",
+        "markdown": true,
+        "update_label": "更新时间：",
+        "update_format": "YYYY-MM-DD HH:mm:ss"
+    }
+},
+ "theme-default": {
+    "showLevel": false
+},
+"styles": {
+    "website": "styles/website.css",
+    "ebook": "styles/ebook.css",
+    "pdf": "styles/pdf.css",
+    "mobi": "styles/mobi.css",
+    "epub": "styles/epub.css"
+},
+ "pdf": {
+     "pageNumbers": true,
+     "fontSize": 12,
+     "paperSize": "a4",
+     "margin": {
+         "right": 62,
+         "left": 62,
+         "top": 36,
+         "bottom": 36
+     },
+     "headerTemplate": null,
+     "footerTemplate": null
+ }
+}
