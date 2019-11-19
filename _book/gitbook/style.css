@@ -145,7 +145,7 @@ table{border-collapse:collapse;border-spacing:0}
 .fa-dedent:before,.fa-outdent:before{content:"\f03b"}
 .fa-indent:before{content:"\f03c"}
 .fa-video-camera:before{content:"\f03d"}
-.fa-image:before,.fa-photo:before,.fa-picture-o:before{content:"\f03e"}
+.fa-image:before,.fa-photo:before,.fa-../picture-o:before{content:"\f03e"}
 .fa-pencil:before{content:"\f040"}
 .fa-map-marker:before{content:"\f041"}
 .fa-adjust:before{content:"\f042"}
@@ -497,7 +497,7 @@ table{border-collapse:collapse;border-spacing:0}
 .fa-file-word-o:before{content:"\f1c2"}
 .fa-file-excel-o:before{content:"\f1c3"}
 .fa-file-powerpoint-o:before{content:"\f1c4"}
-.fa-file-image-o:before,.fa-file-photo-o:before,.fa-file-picture-o:before{content:"\f1c5"}
+.fa-file-image-o:before,.fa-file-photo-o:before,.fa-file-../picture-o:before{content:"\f1c5"}
 .fa-file-archive-o:before,.fa-file-zip-o:before{content:"\f1c6"}
 .fa-file-audio-o:before,.fa-file-sound-o:before{content:"\f1c7"}
 .fa-file-movie-o:before,.fa-file-video-o:before{content:"\f1c8"}
