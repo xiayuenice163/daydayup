@@ -65,8 +65,8 @@ vCenter Server为数据中心提供了一个控制点。它提供基本的数据
 
 VMware vSphere 为数据中心管理和虚拟机访问提供多种界面。这些界面包括 VMware vSphere Client (vSphere Client)、vSphere Web Client（用于通过 Web 浏览器访问）或 vSphere 命令行界面 (vSphere CLI)。
 
-![基础设施](../picture/虚拟化基础设施.png)
-![物理拓扑图](../picture/数据中心物理拓扑图.png)
+![基础设施](../../picture/虚拟化基础设施.png)
+![物理拓扑图](../../picture/数据中心物理拓扑图.png)
 
 # vSphere 软件组件
 VMware vSphere 是用于虚拟化的软件组件套件。这些组件包括 ESXi、vCenter Server 以及在 vSphere 环境中实现许多不同功能的其他软件组件。
@@ -127,7 +127,7 @@ vCenter Server 是一种 Windows 服务，安装后自动运行。vCenter Server
 
 vCenter Server 使用 LDAP（轻量级目录访问协议）在加入链接模式的 vCenter Server 系统之间同步数据（如许可证和角色信息）。
 
-![整体构成部分](../picture/整体构成部分.png)
+![整体构成部分](../../picture/整体构成部分.png)
 
 # vSphere 受管清单对象
  在 vSphere 中，清单是可对其设置权限、监控任务与事件并设置警报的虚拟和物理对象的集合。使用文件夹可以对大部分清单对象进行分组，从而更轻松地进行管理。
@@ -154,7 +154,7 @@ vCenter Server 使用 LDAP（轻量级目录访问协议）在加入链接模式
 
 ■
 网络
-![通信机制](../picture/通信机制.png)
+![通信机制](../../picture/通信机制.png)
 
 ■
 ## 数据存储

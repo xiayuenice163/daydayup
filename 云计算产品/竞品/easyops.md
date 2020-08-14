@@ -6,7 +6,7 @@
 银行研发痛点
 ![devops](../../picture/easyops-devops.png)
 研发生命周期中的浪费
-![devops](../picture/easyops-devops2.png)
+![devops](../../picture/easyops-devops2.png)
 传统的交付流水线
 ![devops](../../picture/easyops-devops3.png)
 高效的流水线

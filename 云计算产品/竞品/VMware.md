@@ -13,8 +13,8 @@
 + vRealize Business for cloud 中文文档
 https://docs.vmware.com/cn/vRealize-Business/7.2/com.vmware.vRBforCloud.user.doc/GUID-83482CB2-2799-480D-A801-C452B3577B0D.html
 
-+ 公司内部已有的相关知识库
-http://192.168.1.107:8090/display/sales/SmartCMP+VS+vRealize+Suite
++ 已有的相关知识库
+<a href="https://xiayuenice163.github.io/book/source/36计/SmartCMPVSvRealizeSuite.pdf" >SmartCMPVSvRealizeSuite</a>
 
 + vRealize Business for cloud   
 demo环境  账号  密码
